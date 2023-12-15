@@ -12,3 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f304efc503381214b8d9cf0ec917c8f1, type: 3}
   m_Name: New Question 3
   m_EditorClassIdentifier: 
+  question: Which scientist is known for the theory of relativity?
+  answers:
+  - Isaac Newton
+  - Albert Einstein
+  - Marie Curie
+  - Galileo Galilei
+  correctAnswerIndex: 1

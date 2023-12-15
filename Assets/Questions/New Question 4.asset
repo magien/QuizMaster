@@ -12,3 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f304efc503381214b8d9cf0ec917c8f1, type: 3}
   m_Name: New Question 4
   m_EditorClassIdentifier: 
+  question: What is the capital city of Australia?
+  answers:
+  - Sydney
+  - Melbourne
+  - Canberra
+  - Brisbane
+  correctAnswerIndex: 2
